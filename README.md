@@ -6,6 +6,9 @@ This code is based on the Mozilla Developer Network (MDN) Django tutorial, found
 Left off here:
 (https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Forms#modelforms)
 
+This readme includes some commonly-used commands and process stuff. 
+It is not an overview of how to use Django.
+
 Note: Use "py" for Windows, "python3" for Linux
 
 ## Virtual environment
