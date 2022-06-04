@@ -1,4 +1,4 @@
-# Local Library Django tutorial
+# Local Library Django tutorial (from MDN)
 
 This code is based on the Mozilla Developer Network (MDN) Django tutorial, found here:
 (https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
