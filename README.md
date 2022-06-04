@@ -1,10 +1,10 @@
 # Local Library Django tutorial (from MDN)
 
 This code is based on the Mozilla Developer Network (MDN) Django tutorial, found here:
-(https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
 
 Left off here:
-(https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Forms#modelforms)
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Forms#modelforms
 
 This readme includes some commonly-used commands and process stuff. It is not an overview of how to use Django.
 
